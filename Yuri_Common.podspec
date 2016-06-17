@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.source       = { :git => "https://github.com/203Monitor/Yuri_Common.git", :tag => "0.0.7" }
 
   s.source_files = 'Yuri_Common/Yuri_Common/**/*.{h,m}'
-  s.frameworks = 'libz.1.2.5'
+  s.libraries = 'libz.1.2.5'
 end
