@@ -13,6 +13,7 @@
 		0E72B1671D13E6A600DC44A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B1651D13E6A600DC44A2 /* Main.storyboard */; };
 		0E72B1691D13E6A600DC44A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B1681D13E6A600DC44A2 /* Assets.xcassets */; };
 		0E72B16C1D13E6A600DC44A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B16A1D13E6A600DC44A2 /* LaunchScreen.storyboard */; };
+		0E72B1741D13E82600DC44A2 /* libz.1.2.5.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0E72B1731D13E82600DC44A2 /* libz.1.2.5.tbd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		0E72B1681D13E6A600DC44A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0E72B16B1D13E6A600DC44A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0E72B16D1D13E6A600DC44A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0E72B1731D13E82600DC44A2 /* libz.1.2.5.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.1.2.5.tbd; path = usr/lib/libz.1.2.5.tbd; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +35,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0E72B1741D13E82600DC44A2 /* libz.1.2.5.tbd in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +45,7 @@
 		0E72B1501D13E6A600DC44A2 = {
 			isa = PBXGroup;
 			children = (
+				0E72B1731D13E82600DC44A2 /* libz.1.2.5.tbd */,
 				0E72B15B1D13E6A600DC44A2 /* Yuri_Common */,
 				0E72B15A1D13E6A600DC44A2 /* Products */,
 			);
@@ -302,6 +306,7 @@
 				0E72B1721D13E6A600DC44A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
