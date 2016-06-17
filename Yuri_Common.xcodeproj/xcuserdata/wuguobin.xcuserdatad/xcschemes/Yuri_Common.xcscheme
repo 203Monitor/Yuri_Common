@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0E72B0361D13BCDB00DC44A2"
+               BlueprintIdentifier = "0E72B1581D13E6A600DC44A2"
                BuildableName = "Yuri_Common.app"
                BlueprintName = "Yuri_Common"
                ReferencedContainer = "container:Yuri_Common.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E72B0361D13BCDB00DC44A2"
+            BlueprintIdentifier = "0E72B1581D13E6A600DC44A2"
             BuildableName = "Yuri_Common.app"
             BlueprintName = "Yuri_Common"
             ReferencedContainer = "container:Yuri_Common.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E72B0361D13BCDB00DC44A2"
+            BlueprintIdentifier = "0E72B1581D13E6A600DC44A2"
             BuildableName = "Yuri_Common.app"
             BlueprintName = "Yuri_Common"
             ReferencedContainer = "container:Yuri_Common.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0E72B0361D13BCDB00DC44A2"
+            BlueprintIdentifier = "0E72B1581D13E6A600DC44A2"
             BuildableName = "Yuri_Common.app"
             BlueprintName = "Yuri_Common"
             ReferencedContainer = "container:Yuri_Common.xcodeproj">

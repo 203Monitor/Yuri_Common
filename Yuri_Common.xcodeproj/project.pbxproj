@@ -7,57 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0E72B03C1D13BCDB00DC44A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B03B1D13BCDB00DC44A2 /* main.m */; };
-		0E72B03F1D13BCDB00DC44A2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B03E1D13BCDB00DC44A2 /* AppDelegate.m */; };
-		0E72B0421D13BCDB00DC44A2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0411D13BCDB00DC44A2 /* ViewController.m */; };
-		0E72B0451D13BCDB00DC44A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B0431D13BCDB00DC44A2 /* Main.storyboard */; };
-		0E72B0471D13BCDB00DC44A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B0461D13BCDB00DC44A2 /* Assets.xcassets */; };
-		0E72B04A1D13BCDB00DC44A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B0481D13BCDB00DC44A2 /* LaunchScreen.storyboard */; };
-		0E72B0FF1D13C01D00DC44A2 /* NSMutableDictionary+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0EC1D13C01D00DC44A2 /* NSMutableDictionary+Extension.m */; };
-		0E72B1001D13C01D00DC44A2 /* NSString+StringSize.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0EE1D13C01D00DC44A2 /* NSString+StringSize.m */; };
-		0E72B1011D13C01D00DC44A2 /* NSString+YuriEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0F01D13C01D00DC44A2 /* NSString+YuriEncryption.m */; };
-		0E72B1021D13C01D00DC44A2 /* UIBarButtonItem+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0F21D13C01D00DC44A2 /* UIBarButtonItem+Extension.m */; };
-		0E72B1031D13C01D00DC44A2 /* UIColor+YuriColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0F41D13C01D00DC44A2 /* UIColor+YuriColor.m */; };
-		0E72B1041D13C01D00DC44A2 /* UIImage+Extension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0F61D13C01D00DC44A2 /* UIImage+Extension.m */; };
-		0E72B1051D13C01D00DC44A2 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0F81D13C01D00DC44A2 /* UIView+Frame.m */; };
-		0E72B1061D13C01D00DC44A2 /* Yuri_CalTime.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0FB1D13C01D00DC44A2 /* Yuri_CalTime.m */; };
-		0E72B1071D13C01D00DC44A2 /* Yuri_GetAddress.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B0FD1D13C01D00DC44A2 /* Yuri_GetAddress.m */; };
+		0E72B15E1D13E6A600DC44A2 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B15D1D13E6A600DC44A2 /* main.m */; };
+		0E72B1611D13E6A600DC44A2 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B1601D13E6A600DC44A2 /* AppDelegate.m */; };
+		0E72B1641D13E6A600DC44A2 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E72B1631D13E6A600DC44A2 /* ViewController.m */; };
+		0E72B1671D13E6A600DC44A2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B1651D13E6A600DC44A2 /* Main.storyboard */; };
+		0E72B1691D13E6A600DC44A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B1681D13E6A600DC44A2 /* Assets.xcassets */; };
+		0E72B16C1D13E6A600DC44A2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E72B16A1D13E6A600DC44A2 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0E72B0371D13BCDB00DC44A2 /* Yuri_Common.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Yuri_Common.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		0E72B03B1D13BCDB00DC44A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		0E72B03D1D13BCDB00DC44A2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		0E72B03E1D13BCDB00DC44A2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		0E72B0401D13BCDB00DC44A2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		0E72B0411D13BCDB00DC44A2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		0E72B0441D13BCDB00DC44A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0E72B0461D13BCDB00DC44A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		0E72B0491D13BCDB00DC44A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		0E72B04B1D13BCDB00DC44A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0E72B0EB1D13C01D00DC44A2 /* NSMutableDictionary+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSMutableDictionary+Extension.h"; sourceTree = "<group>"; };
-		0E72B0EC1D13C01D00DC44A2 /* NSMutableDictionary+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSMutableDictionary+Extension.m"; sourceTree = "<group>"; };
-		0E72B0ED1D13C01D00DC44A2 /* NSString+StringSize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+StringSize.h"; sourceTree = "<group>"; };
-		0E72B0EE1D13C01D00DC44A2 /* NSString+StringSize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+StringSize.m"; sourceTree = "<group>"; };
-		0E72B0EF1D13C01D00DC44A2 /* NSString+YuriEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+YuriEncryption.h"; sourceTree = "<group>"; };
-		0E72B0F01D13C01D00DC44A2 /* NSString+YuriEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+YuriEncryption.m"; sourceTree = "<group>"; };
-		0E72B0F11D13C01D00DC44A2 /* UIBarButtonItem+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarButtonItem+Extension.h"; sourceTree = "<group>"; };
-		0E72B0F21D13C01D00DC44A2 /* UIBarButtonItem+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarButtonItem+Extension.m"; sourceTree = "<group>"; };
-		0E72B0F31D13C01D00DC44A2 /* UIColor+YuriColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+YuriColor.h"; sourceTree = "<group>"; };
-		0E72B0F41D13C01D00DC44A2 /* UIColor+YuriColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+YuriColor.m"; sourceTree = "<group>"; };
-		0E72B0F51D13C01D00DC44A2 /* UIImage+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+Extension.h"; sourceTree = "<group>"; };
-		0E72B0F61D13C01D00DC44A2 /* UIImage+Extension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+Extension.m"; sourceTree = "<group>"; };
-		0E72B0F71D13C01D00DC44A2 /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
-		0E72B0F81D13C01D00DC44A2 /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
-		0E72B0FA1D13C01D00DC44A2 /* Yuri_CalTime.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Yuri_CalTime.h; sourceTree = "<group>"; };
-		0E72B0FB1D13C01D00DC44A2 /* Yuri_CalTime.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Yuri_CalTime.m; sourceTree = "<group>"; };
-		0E72B0FC1D13C01D00DC44A2 /* Yuri_GetAddress.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Yuri_GetAddress.h; sourceTree = "<group>"; };
-		0E72B0FD1D13C01D00DC44A2 /* Yuri_GetAddress.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Yuri_GetAddress.m; sourceTree = "<group>"; };
-		0E72B0FE1D13C01D00DC44A2 /* Yuri_Common.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Yuri_Common.h; sourceTree = "<group>"; };
+		0E72B1591D13E6A600DC44A2 /* Yuri_Common.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Yuri_Common.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E72B15D1D13E6A600DC44A2 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		0E72B15F1D13E6A600DC44A2 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		0E72B1601D13E6A600DC44A2 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		0E72B1621D13E6A600DC44A2 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		0E72B1631D13E6A600DC44A2 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0E72B1661D13E6A600DC44A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		0E72B1681D13E6A600DC44A2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0E72B16B1D13E6A600DC44A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		0E72B16D1D13E6A600DC44A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		0E72B0341D13BCDB00DC44A2 /* Frameworks */ = {
+		0E72B1561D13E6A600DC44A2 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -67,99 +39,56 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0E72B02E1D13BCDB00DC44A2 = {
+		0E72B1501D13E6A600DC44A2 = {
 			isa = PBXGroup;
 			children = (
-				0E72B0391D13BCDB00DC44A2 /* Yuri_Common */,
-				0E72B0381D13BCDB00DC44A2 /* Products */,
+				0E72B15B1D13E6A600DC44A2 /* Yuri_Common */,
+				0E72B15A1D13E6A600DC44A2 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		0E72B0381D13BCDB00DC44A2 /* Products */ = {
+		0E72B15A1D13E6A600DC44A2 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0E72B0371D13BCDB00DC44A2 /* Yuri_Common.app */,
+				0E72B1591D13E6A600DC44A2 /* Yuri_Common.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		0E72B0391D13BCDB00DC44A2 /* Yuri_Common */ = {
+		0E72B15B1D13E6A600DC44A2 /* Yuri_Common */ = {
 			isa = PBXGroup;
 			children = (
-				0E72B0E91D13C01D00DC44A2 /* Yuri_Common */,
-				0E72B03D1D13BCDB00DC44A2 /* AppDelegate.h */,
-				0E72B03E1D13BCDB00DC44A2 /* AppDelegate.m */,
-				0E72B0401D13BCDB00DC44A2 /* ViewController.h */,
-				0E72B0411D13BCDB00DC44A2 /* ViewController.m */,
-				0E72B0431D13BCDB00DC44A2 /* Main.storyboard */,
-				0E72B0461D13BCDB00DC44A2 /* Assets.xcassets */,
-				0E72B0481D13BCDB00DC44A2 /* LaunchScreen.storyboard */,
-				0E72B04B1D13BCDB00DC44A2 /* Info.plist */,
-				0E72B03A1D13BCDB00DC44A2 /* Supporting Files */,
+				0E72B15F1D13E6A600DC44A2 /* AppDelegate.h */,
+				0E72B1601D13E6A600DC44A2 /* AppDelegate.m */,
+				0E72B1621D13E6A600DC44A2 /* ViewController.h */,
+				0E72B1631D13E6A600DC44A2 /* ViewController.m */,
+				0E72B1651D13E6A600DC44A2 /* Main.storyboard */,
+				0E72B1681D13E6A600DC44A2 /* Assets.xcassets */,
+				0E72B16A1D13E6A600DC44A2 /* LaunchScreen.storyboard */,
+				0E72B16D1D13E6A600DC44A2 /* Info.plist */,
+				0E72B15C1D13E6A600DC44A2 /* Supporting Files */,
 			);
 			path = Yuri_Common;
 			sourceTree = "<group>";
 		};
-		0E72B03A1D13BCDB00DC44A2 /* Supporting Files */ = {
+		0E72B15C1D13E6A600DC44A2 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				0E72B03B1D13BCDB00DC44A2 /* main.m */,
+				0E72B15D1D13E6A600DC44A2 /* main.m */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		0E72B0E91D13C01D00DC44A2 /* Yuri_Common */ = {
-			isa = PBXGroup;
-			children = (
-				0E72B0EA1D13C01D00DC44A2 /* Categories */,
-				0E72B0F91D13C01D00DC44A2 /* Personal */,
-				0E72B0FE1D13C01D00DC44A2 /* Yuri_Common.h */,
-			);
-			path = Yuri_Common;
-			sourceTree = "<group>";
-		};
-		0E72B0EA1D13C01D00DC44A2 /* Categories */ = {
-			isa = PBXGroup;
-			children = (
-				0E72B0EB1D13C01D00DC44A2 /* NSMutableDictionary+Extension.h */,
-				0E72B0EC1D13C01D00DC44A2 /* NSMutableDictionary+Extension.m */,
-				0E72B0ED1D13C01D00DC44A2 /* NSString+StringSize.h */,
-				0E72B0EE1D13C01D00DC44A2 /* NSString+StringSize.m */,
-				0E72B0EF1D13C01D00DC44A2 /* NSString+YuriEncryption.h */,
-				0E72B0F01D13C01D00DC44A2 /* NSString+YuriEncryption.m */,
-				0E72B0F11D13C01D00DC44A2 /* UIBarButtonItem+Extension.h */,
-				0E72B0F21D13C01D00DC44A2 /* UIBarButtonItem+Extension.m */,
-				0E72B0F31D13C01D00DC44A2 /* UIColor+YuriColor.h */,
-				0E72B0F41D13C01D00DC44A2 /* UIColor+YuriColor.m */,
-				0E72B0F51D13C01D00DC44A2 /* UIImage+Extension.h */,
-				0E72B0F61D13C01D00DC44A2 /* UIImage+Extension.m */,
-				0E72B0F71D13C01D00DC44A2 /* UIView+Frame.h */,
-				0E72B0F81D13C01D00DC44A2 /* UIView+Frame.m */,
-			);
-			path = Categories;
-			sourceTree = "<group>";
-		};
-		0E72B0F91D13C01D00DC44A2 /* Personal */ = {
-			isa = PBXGroup;
-			children = (
-				0E72B0FA1D13C01D00DC44A2 /* Yuri_CalTime.h */,
-				0E72B0FB1D13C01D00DC44A2 /* Yuri_CalTime.m */,
-				0E72B0FC1D13C01D00DC44A2 /* Yuri_GetAddress.h */,
-				0E72B0FD1D13C01D00DC44A2 /* Yuri_GetAddress.m */,
-			);
-			path = Personal;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0E72B0361D13BCDB00DC44A2 /* Yuri_Common */ = {
+		0E72B1581D13E6A600DC44A2 /* Yuri_Common */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0E72B04E1D13BCDB00DC44A2 /* Build configuration list for PBXNativeTarget "Yuri_Common" */;
+			buildConfigurationList = 0E72B1701D13E6A600DC44A2 /* Build configuration list for PBXNativeTarget "Yuri_Common" */;
 			buildPhases = (
-				0E72B0331D13BCDB00DC44A2 /* Sources */,
-				0E72B0341D13BCDB00DC44A2 /* Frameworks */,
-				0E72B0351D13BCDB00DC44A2 /* Resources */,
+				0E72B1551D13E6A600DC44A2 /* Sources */,
+				0E72B1561D13E6A600DC44A2 /* Frameworks */,
+				0E72B1571D13E6A600DC44A2 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -167,24 +96,24 @@
 			);
 			name = Yuri_Common;
 			productName = Yuri_Common;
-			productReference = 0E72B0371D13BCDB00DC44A2 /* Yuri_Common.app */;
+			productReference = 0E72B1591D13E6A600DC44A2 /* Yuri_Common.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		0E72B02F1D13BCDB00DC44A2 /* Project object */ = {
+		0E72B1511D13E6A600DC44A2 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "武国斌";
 				TargetAttributes = {
-					0E72B0361D13BCDB00DC44A2 = {
+					0E72B1581D13E6A600DC44A2 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
 				};
 			};
-			buildConfigurationList = 0E72B0321D13BCDB00DC44A2 /* Build configuration list for PBXProject "Yuri_Common" */;
+			buildConfigurationList = 0E72B1541D13E6A600DC44A2 /* Build configuration list for PBXProject "Yuri_Common" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -192,64 +121,55 @@
 				en,
 				Base,
 			);
-			mainGroup = 0E72B02E1D13BCDB00DC44A2;
-			productRefGroup = 0E72B0381D13BCDB00DC44A2 /* Products */;
+			mainGroup = 0E72B1501D13E6A600DC44A2;
+			productRefGroup = 0E72B15A1D13E6A600DC44A2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0E72B0361D13BCDB00DC44A2 /* Yuri_Common */,
+				0E72B1581D13E6A600DC44A2 /* Yuri_Common */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		0E72B0351D13BCDB00DC44A2 /* Resources */ = {
+		0E72B1571D13E6A600DC44A2 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E72B04A1D13BCDB00DC44A2 /* LaunchScreen.storyboard in Resources */,
-				0E72B0471D13BCDB00DC44A2 /* Assets.xcassets in Resources */,
-				0E72B0451D13BCDB00DC44A2 /* Main.storyboard in Resources */,
+				0E72B16C1D13E6A600DC44A2 /* LaunchScreen.storyboard in Resources */,
+				0E72B1691D13E6A600DC44A2 /* Assets.xcassets in Resources */,
+				0E72B1671D13E6A600DC44A2 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		0E72B0331D13BCDB00DC44A2 /* Sources */ = {
+		0E72B1551D13E6A600DC44A2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0E72B0421D13BCDB00DC44A2 /* ViewController.m in Sources */,
-				0E72B1021D13C01D00DC44A2 /* UIBarButtonItem+Extension.m in Sources */,
-				0E72B1011D13C01D00DC44A2 /* NSString+YuriEncryption.m in Sources */,
-				0E72B03F1D13BCDB00DC44A2 /* AppDelegate.m in Sources */,
-				0E72B1001D13C01D00DC44A2 /* NSString+StringSize.m in Sources */,
-				0E72B03C1D13BCDB00DC44A2 /* main.m in Sources */,
-				0E72B1071D13C01D00DC44A2 /* Yuri_GetAddress.m in Sources */,
-				0E72B1041D13C01D00DC44A2 /* UIImage+Extension.m in Sources */,
-				0E72B1031D13C01D00DC44A2 /* UIColor+YuriColor.m in Sources */,
-				0E72B1051D13C01D00DC44A2 /* UIView+Frame.m in Sources */,
-				0E72B1061D13C01D00DC44A2 /* Yuri_CalTime.m in Sources */,
-				0E72B0FF1D13C01D00DC44A2 /* NSMutableDictionary+Extension.m in Sources */,
+				0E72B1641D13E6A600DC44A2 /* ViewController.m in Sources */,
+				0E72B1611D13E6A600DC44A2 /* AppDelegate.m in Sources */,
+				0E72B15E1D13E6A600DC44A2 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		0E72B0431D13BCDB00DC44A2 /* Main.storyboard */ = {
+		0E72B1651D13E6A600DC44A2 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0E72B0441D13BCDB00DC44A2 /* Base */,
+				0E72B1661D13E6A600DC44A2 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		0E72B0481D13BCDB00DC44A2 /* LaunchScreen.storyboard */ = {
+		0E72B16A1D13E6A600DC44A2 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				0E72B0491D13BCDB00DC44A2 /* Base */,
+				0E72B16B1D13E6A600DC44A2 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -257,7 +177,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		0E72B04C1D13BCDB00DC44A2 /* Debug */ = {
+		0E72B16E1D13E6A600DC44A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -302,7 +222,7 @@
 			};
 			name = Debug;
 		};
-		0E72B04D1D13BCDB00DC44A2 /* Release */ = {
+		0E72B16F1D13E6A600DC44A2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -341,7 +261,7 @@
 			};
 			name = Release;
 		};
-		0E72B04F1D13BCDB00DC44A2 /* Debug */ = {
+		0E72B1711D13E6A600DC44A2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -352,7 +272,7 @@
 			};
 			name = Debug;
 		};
-		0E72B0501D13BCDB00DC44A2 /* Release */ = {
+		0E72B1721D13E6A600DC44A2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -366,25 +286,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0E72B0321D13BCDB00DC44A2 /* Build configuration list for PBXProject "Yuri_Common" */ = {
+		0E72B1541D13E6A600DC44A2 /* Build configuration list for PBXProject "Yuri_Common" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0E72B04C1D13BCDB00DC44A2 /* Debug */,
-				0E72B04D1D13BCDB00DC44A2 /* Release */,
+				0E72B16E1D13E6A600DC44A2 /* Debug */,
+				0E72B16F1D13E6A600DC44A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0E72B04E1D13BCDB00DC44A2 /* Build configuration list for PBXNativeTarget "Yuri_Common" */ = {
+		0E72B1701D13E6A600DC44A2 /* Build configuration list for PBXNativeTarget "Yuri_Common" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0E72B04F1D13BCDB00DC44A2 /* Debug */,
-				0E72B0501D13BCDB00DC44A2 /* Release */,
+				0E72B1711D13E6A600DC44A2 /* Debug */,
+				0E72B1721D13E6A600DC44A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 0E72B02F1D13BCDB00DC44A2 /* Project object */;
+	rootObject = 0E72B1511D13E6A600DC44A2 /* Project object */;
 }
