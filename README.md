@@ -1,2 +1,2 @@
-|Yuri_Common|个人开发常用|
+|Yuri_Common|个人开发常用 |
 | ---- | ---- |
