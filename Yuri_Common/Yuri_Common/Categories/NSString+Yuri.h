@@ -26,8 +26,6 @@
 
 - (NSString *)sha512String;
 
-- (NSString *)crc32String;
-
 - (NSString *)hmacMD5StringWithKey:(NSString *)key;
 
 - (NSString *)hmacSHA1StringWithKey:(NSString *)key;

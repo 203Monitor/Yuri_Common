@@ -173,17 +173,6 @@
  */
 - (NSData *)hmacSHA512DataWithKey:(NSData *)key;
 
-/**
- Returns a lowercase NSString for crc32 hash.
- */
-- (NSString *)crc32String;
-
-/**
- Returns crc32 hash.
- */
-- (uint32_t)crc32;
-
-
 #pragma mark - Encrypt and Decrypt
 ///=============================================================================
 /// @name Encrypt and Decrypt
@@ -257,37 +246,6 @@
  Returns nil if an error occurs.
  */
 - (id)jsonValueDecoded;
-
-
-#pragma mark - Inflate and deflate
-///=============================================================================
-/// @name Inflate and deflate
-///=============================================================================
-
-/**
- Decompress data from gzip data.
- @return Inflated data.
- */
-- (NSData *)gzipInflate;
-
-/**
- Comperss data to gzip in default compresssion level.
- @return Deflated data.
- */
-- (NSData *)gzipDeflate;
-
-/**
- Decompress data from zlib-compressed data.
- @return Inflated data.
- */
-- (NSData *)zlibInflate;
-
-/**
- Comperss data to zlib-compressed in default compresssion level.
- @return Deflated data.
- */
-- (NSData *)zlibDeflate;
-
 
 #pragma mark - Others
 ///=============================================================================

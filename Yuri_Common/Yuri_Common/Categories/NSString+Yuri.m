@@ -43,10 +43,6 @@
     return [[self dataUsingEncoding:NSUTF8StringEncoding] sha512String];
 }
 
-- (NSString *)crc32String {
-    return [[self dataUsingEncoding:NSUTF8StringEncoding] crc32String];
-}
-
 - (NSString *)hmacMD5StringWithKey:(NSString *)key {
     return [[self dataUsingEncoding:NSUTF8StringEncoding]
             hmacMD5StringWithKey:key];
